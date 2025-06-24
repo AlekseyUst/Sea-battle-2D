@@ -1,0 +1,4 @@
+sea-battle/
+├── index.html
+├── style.css
+└── game.js
